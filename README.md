@@ -2,4 +2,4 @@
 
 ### Este será el index.html --> 
 
-[Mi primera página web](HTML5_logo.png)
+[Mi primera página web](index.html)
