@@ -14,4 +14,4 @@
 
 ### En esta actividad veremos el uso de las listas --> 
 
-[Actuvidad sobre Listas](listas.html)
+[Actvidad sobre Listas](listas.html)
