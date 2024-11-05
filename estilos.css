@@ -1,0 +1,70 @@
+/* Tipo de letra y centrado del texto */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Tabla */
+table {
+    width: 80%; /* Ancho de la tabla para centrarla mejor en la página */
+    border-collapse: collapse; /* Une los bordes para un estilo más simple */
+    margin: 0 auto; /* Centra la tabla */
+}
+
+/* Bordes */
+table {
+    border: 2px solid black; /* Borde exterior de la tabla */
+}
+
+th, td {
+    border: 1px solid grey; /* Borde de las celdas */
+    padding: 8px;
+    text-align: center; /* Texto centrado */
+}
+
+/* Colores de cada módulo */
+.badat {
+    background-color: #FF6666;
+    color: white;
+}
+
+.lmsgi {
+    background-color: #FFCC66;
+    color: black;
+}
+
+.dasp {
+    background-color: #66CCFF;
+    color: black;
+}
+
+.ipe {
+    background-color: #FF99CC;
+    color: black;
+}
+
+.endes {
+    background-color: #99CC66;
+    color: black;
+}
+
+.sost {
+    background-color: #00ff22;
+    color: black;
+}
+
+.siinf {
+    background-color: #9966FF;
+    color: white;
+}
+
+.progr {
+    background-color: #66CCCC;
+    color: black;
+}
+
+/* Encabezado de la tabla */
+th {
+    background-color: #333;
+    color: white;
+}
