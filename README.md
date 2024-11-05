@@ -15,3 +15,7 @@
 ### En esta actividad veremos el uso de las listas --> 
 
 [Actvidad sobre Listas](listas.html)
+
+### En esta tarea crearemos nuestro horario como una tabla -->
+
+[Actividad sobre tablas](tablas.html)
