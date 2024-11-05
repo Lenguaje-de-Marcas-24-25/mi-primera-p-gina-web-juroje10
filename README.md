@@ -20,4 +20,4 @@
 
 ### En esta tarea crearemos nuestro horario como una tabla -->
 
-[Actividad sobre tablas](horario.html)
+Actividad sobre tablas --> [(horario.html)](horario.html) [(estilos.css)](estilos.css)
