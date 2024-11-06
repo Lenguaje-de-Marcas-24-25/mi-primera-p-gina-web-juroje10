@@ -22,7 +22,7 @@
 # UD2 A4 Tablas
 ### En esta tarea crearemos nuestro horario como una tabla -->
 
-[Actividad sobre tablas](tablas.html)
+[Actividad sobre tablas](horario.html)
 
 
 # UD2 A5 Lenguajes de marcas en la web
