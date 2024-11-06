@@ -34,5 +34,5 @@
 # UD2 A6 Formularios
 ### En esta tarea veremos como se hace un formulario y su estructura -->
 
-[Actividad sobre formularios](formulario.html)
+[Actividad sobre formularios](Formulario.html)
 
