@@ -42,11 +42,16 @@
 [Actividades sobre enlaces](enlaces_imagenes.html) 
 
 # UD2 A8 HTML Y CSS (i)
-### En esta tarea veremos una página de html usando el style para darle stilo a la página --> 
+### En esta tarea veremos una página de html usando el style para darle estilo a la página --> 
 
 [Parte 1 actividades HTML y CSS](1_parte_HTML_CSS.html) 
 
 # UD2 A9 : HTML y CSS (ii)
-### En esta tarea veremos una página de html usando el style para darle stilo a la página --> 
+### En esta tarea veremos una página de html usando el style para darle estilo a la página --> 
 
 [Parte 2 actividades HTML y CSS](2_parte_HTML_CSS.html)
+
+# UD2 A10 : HTML y CSS (iii)
+### En esta tarea veremos una página de html usando el style para darle estilo a la página --> 
+
+[Parte 3 actividades HTML y CSS](3_parte_HTML_CSS.html)
